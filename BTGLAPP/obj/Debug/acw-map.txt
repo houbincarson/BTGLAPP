@@ -1,0 +1,4 @@
+BTGLAPP.HttpDownloadFile.MyHandler;btglapp.HttpDownloadFile_MyHandler
+Widget.HttpImageView;widget.HttpImageView
+BTGLAPP.MainActivity;btglapp.MainActivity
+BTGLAPP.ProdSaleYearCountAdapter;btglapp.ProdSaleYearCountAdapter

@@ -1,0 +1,15 @@
+F:\Android\Projects\Androids\BTGLAPP\BTGLAPP\bin\Debug\BTGLAPP.dll
+F:\Android\Projects\Androids\BTGLAPP\BTGLAPP\bin\Debug\BTGLAPP.pdb
+F:\Android\Projects\Androids\BTGLAPP\BTGLAPP\bin\Debug\BTGLAPP.dll.mdb
+F:\Android\Projects\Androids\BTGLAPP\BTGLAPP\bin\Debug\BTGLAPP.BTGLAPP.apk
+F:\Android\Projects\Androids\BTGLAPP\BTGLAPP\bin\Debug\BTGLAPP.BTGLAPP-Signed.apk
+F:\Android\Projects\Androids\BTGLAPP\BTGLAPP\obj\Debug\BTGLAPP.dll
+F:\Android\Projects\Androids\BTGLAPP\BTGLAPP\obj\Debug\BTGLAPP.pdb
+F:\Android\Projects\Androids\BTGLAPP\BTGLAPP\obj\Debug\android\bin\BTGLAPP.BTGLAPP.apk
+F:\Android\Projects\Androids\BTGLAPP\BTGLAPP\obj\Debug\res\layout\main.xml
+F:\Android\Projects\Androids\BTGLAPP\BTGLAPP\obj\Debug\res\values\strings.xml
+F:\Android\Projects\Androids\BTGLAPP\BTGLAPP\obj\Debug\res\drawable\icon.png
+F:\Android\Projects\Androids\BTGLAPP\BTGLAPP\obj\Debug\R.cs.flag
+F:\Android\Projects\Androids\BTGLAPP\BTGLAPP\obj\Debug\uploadflags.txt
+F:\Android\Projects\Androids\BTGLAPP\BTGLAPP\obj\Debug\res\layout\progress.xml
+F:\Android\Projects\Androids\BTGLAPP\BTGLAPP\obj\Debug\res\layout\prodsaleyearcountitem.xml
